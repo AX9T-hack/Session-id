@@ -89,9 +89,9 @@ https://whatsapp.com/channel/0029VbB6oCy6hENuJH7F6F3o
 
 Dont forget to fork the repo ⬇️
 
-https://github.com/AX9T-HACK/your bot name 
+https://github.com/AX9T-HACK/AX9T-hack👾🤖 
 
-> *© Powered AX9T-HACK*`; 
+> *© Powered by AX9T-HACK*`; 
                         await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
@@ -112,8 +112,8 @@ renderLargerThumbnail: true
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "your name",
-thumbnailUrl: "your img url",
+title: "AX9T-HACK",
+thumbnailUrl: "https://photos.app.goo.gl/L826rB3fbGGV5XDz8",
 sourceUrl: "your channel",
 mediaType: 2,
 renderLargerThumbnail: true,
