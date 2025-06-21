@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: AX9T-hack👾🤖-pair-site
+    env: docker
+    plan: free
+    branch: main
+    repo: https://github.com/AX9T-HACK/AX9T-hack👾🤖
+    dockerfilePath: ./Dockerfile
+    autoDeploy: true
